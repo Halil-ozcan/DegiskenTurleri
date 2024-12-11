@@ -10,6 +10,18 @@ namespace DegiskenDavranislari
     {
         static void Main(string[] args)
         {
+
+            string degisken1 = "Halil Özcan";
+
+            string degisken2 = "Hasan Polat";
+
+            degisken1 = degisken2;
+
+            degisken2 = "Erol Sevinç";
+
+            Console.WriteLine(degisken1);
+
+            Console.WriteLine(degisken2);
         }
     }
 }
