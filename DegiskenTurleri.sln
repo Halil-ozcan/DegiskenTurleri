@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenTurleri", "DegiskenTurleri\DegiskenTurleri.csproj", "{038491EA-78E4-4479-A833-3E56DD7A8C5B}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenAlistirmalar2", "DegiskenAlistirmalar2\DegiskenAlistirmalar2.csproj", "{4173928F-B667-4D69-9139-166ADB8DDF07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenlerAlistirma3", "DegiskenlerAlistirma3\DegiskenlerAlistirma3.csproj", "{06195E16-B92B-4C5F-BA3A-A7CA3F956079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma 1", "Alistirma 1\Alistirma 1.csproj", "{CA1AFA01-CCF4-4586-B5AE-3F461B316CD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1AFA01-CCF4-4586-B5AE-3F461B316CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1AFA01-CCF4-4586-B5AE-3F461B316CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1AFA01-CCF4-4586-B5AE-3F461B316CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1AFA01-CCF4-4586-B5AE-3F461B316CD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
