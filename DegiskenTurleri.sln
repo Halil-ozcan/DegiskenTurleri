@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenTurleri", "Degisken
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charVeriTipiİnceleme", "charVeriTipiİnceleme\charVeriTipiİnceleme.csproj", "{2A16C846-2412-4EFF-80D3-5CEFA877FB55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayisalDegiskenlerTamSayi", "SayisalDegiskenlerTamSayi\SayisalDegiskenlerTamSayi.csproj", "{2C18ED8F-2926-453D-AA4F-65C56DD8DB8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2A16C846-2412-4EFF-80D3-5CEFA877FB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A16C846-2412-4EFF-80D3-5CEFA877FB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A16C846-2412-4EFF-80D3-5CEFA877FB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C18ED8F-2926-453D-AA4F-65C56DD8DB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C18ED8F-2926-453D-AA4F-65C56DD8DB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C18ED8F-2926-453D-AA4F-65C56DD8DB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C18ED8F-2926-453D-AA4F-65C56DD8DB8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
