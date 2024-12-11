@@ -8,7 +8,7 @@ namespace DegiskenAlistirmalar2
 {
     internal class Program
     {
-        static int yas;
+    
         static void Main(string[] args)
         {
 
@@ -26,7 +26,7 @@ namespace DegiskenAlistirmalar2
 
             Console.Write("Yaşınızı Giriniz: ");
             
-            yas = Convert.ToInt32(Console.ReadLine());
+            int yas = Convert.ToInt32(Console.ReadLine());
 
             
             Console.Clear();
