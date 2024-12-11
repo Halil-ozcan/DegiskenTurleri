@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma2", "Alistirma2\Al
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma 3", "Alistirma 3\Alistirma 3.csproj", "{5F1CAB35-C1BD-4B72-845D-D69798092BBD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alistirma 4", "Alistirma 4\Alistirma 4.csproj", "{698AE3AC-6293-463A-AAE1-6A16D7ED17ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{5F1CAB35-C1BD-4B72-845D-D69798092BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F1CAB35-C1BD-4B72-845D-D69798092BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F1CAB35-C1BD-4B72-845D-D69798092BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698AE3AC-6293-463A-AAE1-6A16D7ED17ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698AE3AC-6293-463A-AAE1-6A16D7ED17ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698AE3AC-6293-463A-AAE1-6A16D7ED17ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698AE3AC-6293-463A-AAE1-6A16D7ED17ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
