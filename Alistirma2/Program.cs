@@ -10,6 +10,16 @@ namespace Alistirma2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Merhaba");
+
+            Console.Write("Lütfen String bir Karakter Girer Misiniz ? ");
+            char karakter = Convert.ToChar(Console.ReadLine()); 
+
+            Console.Clear();
+
+            int asci = Convert.ToInt32(karakter); 
+
+            Console.WriteLine("sonuc : " + asci);
         }
     }
 }
