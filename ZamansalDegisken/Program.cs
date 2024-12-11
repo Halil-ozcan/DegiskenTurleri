@@ -10,6 +10,9 @@ namespace ZamansalDegisken
     {
         static void Main(string[] args)
         {
+            // Şuanki tarih ve saat dilimini gösterir.
+
+            DateTime tarihSaat = DateTime.Now;
         }
     }
 }
