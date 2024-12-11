@@ -10,6 +10,15 @@ namespace MantiksalDegiskenler
     {
         static void Main(string[] args)
         {
+
+            // bool
+
+            bool kullaniciSonuc = true;
+            kullaniciSonuc = false;
+
+            bool kullaniciDeger;
+
+            kullaniciDeger = true;
         }
     }
 }
