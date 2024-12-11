@@ -10,7 +10,15 @@ namespace DegiskenTurleri
     {
         static void Main(string[] args)
         {
+            //string değişkeni metinsel değerleri tutar.
 
+            string isimSoyisim = "Halil Özcan";
+            Console.WriteLine(isimSoyisim);
+            isimSoyisim = "Hasan Polat";
+
+            string dogumYeri;
+            dogumYeri = "Gaziantep";
+            Console.ReadLine();
         }
     }
 }
