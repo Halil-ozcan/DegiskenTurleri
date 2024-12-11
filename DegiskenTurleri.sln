@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayisalDegiskenlerTamSayi",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayisalDegiskenlerOndalikli", "SayisalDegiskenlerOndalikli\SayisalDegiskenlerOndalikli.csproj", "{5844284E-29E6-4099-857E-1471310D0368}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MantiksalDegiskenler", "MantiksalDegiskenler\MantiksalDegiskenler.csproj", "{12525C7D-53AC-4394-B697-84303860760D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5844284E-29E6-4099-857E-1471310D0368}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5844284E-29E6-4099-857E-1471310D0368}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5844284E-29E6-4099-857E-1471310D0368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12525C7D-53AC-4394-B697-84303860760D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12525C7D-53AC-4394-B697-84303860760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12525C7D-53AC-4394-B697-84303860760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12525C7D-53AC-4394-B697-84303860760D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
