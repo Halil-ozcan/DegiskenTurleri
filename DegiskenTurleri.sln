@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDonusumu", "StringDon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenAlistirmalar2", "DegiskenAlistirmalar2\DegiskenAlistirmalar2.csproj", "{4173928F-B667-4D69-9139-166ADB8DDF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenlerAlistirma3", "DegiskenlerAlistirma3\DegiskenlerAlistirma3.csproj", "{06195E16-B92B-4C5F-BA3A-A7CA3F956079}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{4173928F-B667-4D69-9139-166ADB8DDF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4173928F-B667-4D69-9139-166ADB8DDF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4173928F-B667-4D69-9139-166ADB8DDF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06195E16-B92B-4C5F-BA3A-A7CA3F956079}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
