@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenAlistrima1", "Degis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilincsizTurDonusumu", "BilincsizTurDonusumu\BilincsizTurDonusumu.csproj", "{53406E90-4A1A-4AC8-86C6-89A8A3869BB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDonusumu", "StringDonusumu\StringDonusumu.csproj", "{3CC79B19-B582-43E0-A250-38F915D2366D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{53406E90-4A1A-4AC8-86C6-89A8A3869BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53406E90-4A1A-4AC8-86C6-89A8A3869BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53406E90-4A1A-4AC8-86C6-89A8A3869BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC79B19-B582-43E0-A250-38F915D2366D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC79B19-B582-43E0-A250-38F915D2366D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC79B19-B582-43E0-A250-38F915D2366D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC79B19-B582-43E0-A250-38F915D2366D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
