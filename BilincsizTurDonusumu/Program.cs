@@ -10,6 +10,12 @@ namespace BilincsizTurDonusumu
     {
         static void Main(string[] args)
         {
+            int sayi1 = 100;
+
+            int minValue = int.MinValue;
+            int maxValue = int.MaxValue;
+
+            byte sayi2 = (byte) sayi1; // Bilinçsiz tür dönüşümü;
         }
     }
 }
